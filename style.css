@@ -1,5 +1,4 @@
 body { margin: 0; font-family: serif; background-color: black; color: white; }
-header { hight: 100%; }
 a { color: cyan; }
 a:hover { color: yellow; }
 #main { margin: 2vw; white-space: pre-wrap; }
